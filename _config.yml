@@ -1,6 +1,17 @@
-title: Minimal theme
+title: <p align="center"> Anupam Maiti </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/anupam-maiti/">LinkedIn</a> |
+  <a href="https://github.com/dynamicanupam">GitHub</a>
+  <a href="https://www.c-sharpcorner.com/members/awesome-anupam">
+  <img src="https://www.c-sharpcorner.com/members/awesome-anupam/flair.png" width="260" height="58" alt="profile for Anupam C# Corner - A Social Community of Developers and Programmers" title="profile for Anupam at C# Corner - A Social Community of Developers and Programmers" />
+  </a>
+  <br>   
+  
+  <br>
+  Hello, I'm Anupam! 👋 I'm passionate about technology and have a positive outlook, always eager to grow and learn. 
+  My expertise lies in successfully executing challenging Cloud Migration, Cloud Native Engineering, Cloud Architecture, Apps Modernization, PaaS Solutioning, and .NET Full-Stack Technologies projects, primarily within the Microsoft ecosystem.
+  </p>
 theme: jekyll-theme-minimal
