@@ -1,5 +1,5 @@
-title: <p> Anupam Maiti </p>
-logo: /assets/img/myPic.png
+title: <p align="center">Anupam Maiti</p>
+logo:  <p align="center">/assets/img/myPic.png</p>
 
 description:
   <p align="center">
@@ -7,14 +7,11 @@ description:
   <a href="https://github.com/dynamicanupam">GitHub</a>
   </p>
   <br>
-  <br>
   Hello, I'm Anupam! 👋 I'm passionate about technology and have a positive outlook, always eager to grow and learn.
-  <br>
   <br>
   <a href="https://www.c-sharpcorner.com/members/awesome-anupam">
   <img src="https://www.c-sharpcorner.com/members/awesome-anupam/flair.png" width="260" height="58" alt="profile for Anupam C# Corner - A Social Community of Developers and Programmers" title="profile for Anupam at C# Corner - A Social Community of Developers and Programmers" />
   </a>
-
-
+  <br>
 
 theme: jekyll-theme-minimal
