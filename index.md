@@ -1,6 +1,14 @@
-# Machine Learning & AI Portfolio
----
-## Machine learning
+## Professional Summary
+A tech enthusiast professional, continuous learner, nearly 11
+years of experience in Software development and
+Technology Consulting. Expertise in Cloud Architecture on Azure, Application
+Modernization, Cloud Native Development, PaaS Solutioning, Cloud Assessment &
+Migration, and .NET Full Stack Technologies.
+
+## Data Science & Machine Learning & AI Portfolio
+### Exploratory Data Analysis Case Study
+
+Lending Club Case Study to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default. The finance company can utilise this knowledge for its portfolio and risk assessment. In this case study, I used Exploratory Data Analysis to understand how consumer attributes and loan attributes influence the tendency of default.
 
 ### Fraud Detection
 
