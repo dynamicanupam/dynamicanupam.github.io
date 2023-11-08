@@ -5,18 +5,18 @@ Technology Consulting. Expertise in Cloud Architecture on Azure, Application
 Modernization, Cloud Native Development, PaaS Solutioning, Cloud Assessment &
 Migration, and .NET Full Stack Technologies.
 
-## Data Science & Machine Learning & AI Portfolio
-### Exploratory Data Analysis Case Study
+Machine Learning & AI Portfolio
+---
+### 1. Lending Club Case Study using Exploratory Data Analysis (EDA)
 
-Lending Club Case Study to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default. The finance company can utilise this knowledge for its portfolio and risk assessment. In this case study, I used Exploratory Data Analysis to understand how consumer attributes and loan attributes influence the tendency of default.
+This case study is to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default. The finance company can utilise this knowledge for its portfolio and risk assessment. In this case study, I used Exploratory Data Analysis to understand how consumer attributes and loan attributes influence the tendency of default.
 
-### Fraud Detection
+> Python packages used Numpy, Pandas, Matplotlib and Seaborn
 
-Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dynamicanupam/Lending-Club-Case-Study)
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dynamicanupam/fraud_detection)
+![image](https://github.com/dynamicanupam/dynamicanupam.github.io/assets/61014822/e2be508f-42b6-465b-a7a1-04bcbb73cb0c)
 
-<center><img src="assets/img/creditcardfraud.png"/></center>
 
 ---
 
