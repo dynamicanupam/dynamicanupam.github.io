@@ -15,7 +15,7 @@ This case study is to understand the driving factors (or driver variables) behin
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dynamicanupam/Lending-Club-Case-Study)
 
-![image](https://github.com/dynamicanupam/dynamicanupam.github.io/assets/61014822/e2be508f-42b6-465b-a7a1-04bcbb73cb0c)
+![image](https://github.com/dynamicanupam/dynamicanupam.github.io/assets/61014822/4339b9b8-2aa3-4a68-8155-6d08ba7584a1)
 
 
 ---
