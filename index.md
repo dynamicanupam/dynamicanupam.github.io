@@ -1,11 +1,12 @@
 ## Professional Summary
+---
 A tech enthusiast professional, continuous learner, nearly 11
 years of experience in Software development and
 Technology Consulting. Expertise in Cloud Architecture on Azure, Application
 Modernization, Cloud Native Development, PaaS Solutioning, Cloud Assessment &
 Migration, and .NET Full Stack Technologies.
 
-Machine Learning & AI Portfolio
+## Machine Learning & AI Portfolio
 ---
 ### Lending Club Case Study using Exploratory Data Analysis
 
