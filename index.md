@@ -27,9 +27,9 @@ This case study is made to really look into why people want to use shared bikes 
 
 > Python packages used sklearn, statsmodels, Numpy, Pandas, Matplotlib and Seaborn
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dynamicanupam/Bike-Sharing-Demand-Case-Study)
+<span style="color: blue;">#SupervisedLearning, #LinearRegression, #ModelSelection, #FeatureSelection, #MinMaxScaler, #VarianceInflationFactor </span>
 
-<span style="color: blue;">#LinearRegression, #LogisticRegression, #NaiveBayes </span>
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dynamicanupam/Bike-Sharing-Demand-Case-Study)
 
 ![image](https://github.com/dynamicanupam/dynamicanupam.github.io/assets/61014822/722513ea-1d27-412c-8a45-8a1ae7e34f5e)
 
