@@ -18,7 +18,7 @@ This case study aims to explore the key factors (or driver variables) influencin
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dynamicanupam/Lending-Club-Case-Study)
 
-![image](https://github.com/dynamicanupam/dynamicanupam.github.io/assets/61014822/4339b9b8-2aa3-4a68-8155-6d08ba7584a1)
+![image](https://github.com/dynamicanupam/dynamicanupam.github.io/assets/61014822/fdcfb3f1-4ca9-41a2-b2d1-1f0e260b4a76)
 
 ------
 ### Bike Sharing Demand Study using Multiple Linear Regression
