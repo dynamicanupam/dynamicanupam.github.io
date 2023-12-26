@@ -10,9 +10,11 @@ Migration, and .NET Full Stack Technologies.
 ---
 ### Lending Club Case Study using Exploratory Data Analysis
 
-This case study is to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default. The finance company can utilise this knowledge for its portfolio and risk assessment. In this case study, I used Exploratory Data Analysis to understand how consumer attributes and loan attributes influence the tendency of default.
+This case study aims to explore the key factors (or driver variables) influencing loan default, specifically identifying variables that strongly indicate default. The finance company can apply this insight to enhance its portfolio and risk assessment. The project employs techniques such as Exploratory Data Analysis, distribution plotting, visualization, and Hypothesis Testing to analyze the impact of consumer and loan attributes on default tendencies. The goal is to validate statistical evidence, leveraging information for informed decision-making.
 
 > Python packages used Numpy, Pandas, Matplotlib and Seaborn
+
+<span style="color: blue;">#Python, #EDA, #DataVisualization, #StatisticalInference, #HypothesisTesting</span>
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dynamicanupam/Lending-Club-Case-Study)
 
@@ -26,6 +28,8 @@ This case study is made to really look into why people want to use shared bikes 
 > Python packages used sklearn, statsmodels, Numpy, Pandas, Matplotlib and Seaborn
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dynamicanupam/Bike-Sharing-Demand-Case-Study)
+
+<span style="color: blue;">#LinearRegression, #LogisticRegression, #NaiveBayes </span>
 
 ![image](https://github.com/dynamicanupam/dynamicanupam.github.io/assets/61014822/722513ea-1d27-412c-8a45-8a1ae7e34f5e)
 
