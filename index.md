@@ -10,7 +10,7 @@ Migration, and .NET Full Stack Technologies.
 ---
 ### Lending Club Case Study using Exploratory Data Analysis
 
-This case study aims to explore the key factors (or driver variables) influencing loan default, specifically identifying variables that strongly indicate default. The finance company can apply this insight to enhance its portfolio and risk assessment. The project employs techniques such as Exploratory Data Analysis, distribution plotting, visualization, and Hypothesis Testing to analyze the impact of consumer and loan attributes on default tendencies. The goal is to validate statistical evidence, leveraging information for informed decision-making.
+This case study aims to explore the key factors (or driver variables) influencing loan default, specifically identifying variables that strongly indicate default. The finance company can apply this insight to enhance its portfolio and risk assessment. The project employs techniques such as Exploratory Data Analysis, distribution plotting, visualization, and Hypothesis Testing to analyze the impact of consumer and loan attributes on default tendencies.
 
 > Python packages used Numpy, Pandas, Matplotlib and Seaborn
 
