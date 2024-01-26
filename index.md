@@ -32,6 +32,7 @@ This case study is made to really look into why people want to use shared bikes 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dynamicanupam/Bike-Sharing-Demand-Case-Study)
 
 ![bike-sharing-illustration-bike-rental-application-modern-online-applications-concept-business-illustration_122058-737](https://github.com/dynamicanupam/dynamicanupam.github.io/assets/61014822/dbeef5d7-8b3e-41af-9295-4c421d6dc41c)
+
 ------
 ### House Price Prediction Using Advanced Regression
 
@@ -43,7 +44,7 @@ This case study aims to understand and solve House Price Prediction problem with
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dynamicanupam/House-Price-Prediction)
 
-![Screenshot 2024-01-26 183017](https://github.com/dynamicanupam/dynamicanupam.github.io/assets/61014822/a48bb31f-83d9-4272-bb1f-f88369e06125)
+![Screenshot 2024-01-26 184421](https://github.com/dynamicanupam/dynamicanupam.github.io/assets/61014822/60680df4-99fe-49a9-8176-4fbf74692cbf)
 
 ---
 
