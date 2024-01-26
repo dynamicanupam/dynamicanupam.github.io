@@ -35,7 +35,7 @@ This case study is made to really look into why people want to use shared bikes 
 ------
 ### House Price Prediction Using Advanced Regression
 
-In this case study, We will be understanding and solving House Price Prediction problem within the Real Estate domain, exploring how data can be leveraged effectively to tackle business challenges like this. Our objective is to forecast house sales price in a specific area and understand which factors are responsible for higher property value. We aim to address this challenge by employing Advanced Regression Technique like Ridge and Lasso with Cross Validation.
+This case study aims to understand and solve House Price Prediction problem within the Real Estate domain, exploring how data can be leveraged effectively to tackle business challenges like this. Our objective is to forecast house sales price in a specific area and understand which factors are responsible for higher property value. We aim to address this challenge by employing Advanced Regression Technique like Ridge and Lasso with Cross Validation.
 
 > Python packages used sklearn, statsmodels, Numpy, Pandas, Matplotlib and Seaborn
 
