@@ -31,8 +31,19 @@ This case study is made to really look into why people want to use shared bikes 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dynamicanupam/Bike-Sharing-Demand-Case-Study)
 
-![image](https://github.com/dynamicanupam/dynamicanupam.github.io/assets/61014822/722513ea-1d27-412c-8a45-8a1ae7e34f5e)
+![bike-sharing-illustration-bike-rental-application-modern-online-applications-concept-business-illustration_122058-737](https://github.com/dynamicanupam/dynamicanupam.github.io/assets/61014822/dbeef5d7-8b3e-41af-9295-4c421d6dc41c)
+------
+### House Price Prediction Using Advanced Regression
 
+In this case study, We will be understanding and solving House Price Prediction problem within the Real Estate domain, exploring how data can be leveraged effectively to tackle business challenges like this. Our objective is to forecast house sales price in a specific area and understand which factors are responsible for higher property value. We aim to address this challenge by employing Advanced Regression Technique like Ridge and Lasso with Cross Validation.
+
+> Python packages used sklearn, statsmodels, Numpy, Pandas, Matplotlib and Seaborn
+
+<span style="color: blue;">#SupervisedLearning, #RidgeRegression, #LassoRegression, #ModelSelection, #FeatureSelection, #CrossValidation, #HyperparametersTunning  </span>
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dynamicanupam/House-Price-Prediction)
+
+![kaggle_5407_media_housesbanner](https://github.com/dynamicanupam/dynamicanupam.github.io/assets/61014822/37386139-35d9-42fd-9e0a-f96294624fa3)
 
 ---
 
