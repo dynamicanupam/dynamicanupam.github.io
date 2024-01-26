@@ -43,7 +43,7 @@ This case study aims to understand and solve House Price Prediction problem with
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dynamicanupam/House-Price-Prediction)
 
-![kaggle_5407_media_housesbanner](https://github.com/dynamicanupam/dynamicanupam.github.io/assets/61014822/37386139-35d9-42fd-9e0a-f96294624fa3)
+![Screenshot 2024-01-26 183017](https://github.com/dynamicanupam/dynamicanupam.github.io/assets/61014822/a48bb31f-83d9-4272-bb1f-f88369e06125)
 
 ---
 
