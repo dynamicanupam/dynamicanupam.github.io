@@ -6,20 +6,9 @@ description: Hello, I'm Anupam! 👋 I'm passionate about technology and have a 
   <a href="https://www.c-sharpcorner.com/members/awesome-anupam">
   <img src="https://www.c-sharpcorner.com/members/awesome-anupam/flair.png" width="260" height="58" alt="profile for Anupam C# Corner - A Social Community of Developers and Programmers" title="profile for Anupam at C# Corner - A Social Community of Developers and Programmers" />
   </a>
-
-<section id="header">
-				<header>
-					<span class="image avatar"><img src="/assets/img/myPic.png" alt="" /></span>
-					<h1 id="logo"><a href="#">Anupam Maiti</a></h1>
-				</header>
-				<footer>
-					<ul class="icons">
-						<li><a href="https://www.linkedin.com/in/anupam-maiti/" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
-						<li><a href="https://github.com/dynamicanupam" class="icon brands fa-github"><span class="label">Github</span></a></li>
-						<li><a href="mailto:mailtoanupammaiti@gmail.com" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
-					</ul>
-				</footer>
-			</section>
-
-
+<ul class="icons">
+	<li><a href="https://www.linkedin.com/in/anupam-maiti/" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
+	<li><a href="https://github.com/dynamicanupam" class="icon brands fa-github"><span class="label">Github</span></a></li>
+	<li><a href="mailto:mailtoanupammaiti@gmail.com" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+</ul>
 theme: jekyll-theme-minimal
