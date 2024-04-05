@@ -46,5 +46,16 @@ This case study aims to understand and solve House Price Prediction problem with
 
 ![Screenshot 2024-01-26 184421](https://github.com/dynamicanupam/dynamicanupam.github.io/assets/61014822/60680df4-99fe-49a9-8176-4fbf74692cbf)
 
----
+------
+### Skin Cancer Detection Using Convolutional Neural Network (CNN)
+
+This case study focuses on the development and application of a Convolutional Neural Network (CNN) model for the early and accurate detection of melanoma, a type of skin cancer that is responsible for 75% of skin cancer-related deaths. The objective is to create a solution that can analyze images and alert dermatologists about the potential presence of melanoma, thereby potentially reducing the manual effort required in diagnosis.
+
+> Python packages used TensorFlow, Keras, Numpy, Pandas and Seaborn
+
+<span style="color: blue;">#DeepLearning, #ANN, #CNN, #TensorFlow, #Keras, #CrossEntropy, #HyperparametersTunning #ImageRecognition  </span>
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dynamicanupam/Skin-Cancer-Detection)
+
+![image](https://github.com/dynamicanupam/dynamicanupam.github.io/assets/61014822/a2c594c1-6492-4d74-ba72-f5d65da269dd)
 
