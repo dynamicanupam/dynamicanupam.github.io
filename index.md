@@ -1,4 +1,4 @@
-e## Professional Summary
+## Professional Summary
 ---
 A tech enthusiast professional, continuous learner, nearly 11
 years of experience in Software development and
@@ -47,7 +47,7 @@ This case study aims to understand and solve House Price Prediction problem with
 ![Screenshot 2024-01-26 184421](https://github.com/dynamicanupam/dynamicanupam.github.io/assets/61014822/60680df4-99fe-49a9-8176-4fbf74692cbf)
 
 ------
-### Telecom Churn Case Study 
+### Telecom Churn Case Study (Keggle Hackathon)
 
 In the telecommunications industry, customer retention is a significant challenge, with customers often switching operators in search of more attractive schemes and offers. This case study’s objective is to develop a machine learning model that can accurately predict customer churn. This model aims to forecast whether a customer will migrate to a different provider in a specific month, using past data. The ultimate goal is to prevent customer churn by accurately predicting such behavior.
 
