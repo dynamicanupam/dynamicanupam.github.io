@@ -1,4 +1,4 @@
-## Professional Summary
+e## Professional Summary
 ---
 A tech enthusiast professional, continuous learner, nearly 11
 years of experience in Software development and
@@ -55,7 +55,7 @@ In the telecommunications industry, customer retention is a significant challeng
 
 <span style="color: blue;">#SupervisedLearning, #PCA, #LogisticRegression, #DecisionTree, #RandomForest, #GradientDescent, #XGBoost, #LightGBM, #ClassImbalnce, #SMOTE </span>
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]()
+[![View on Keggle](https://img.shields.io/badge/Keggle-Leaderboard-blue)](https://www.kaggle.com/competitions/telecom-churn-case-study-hackathon-c57/leaderboard)
 
 ![image](https://github.com/dynamicanupam/dynamicanupam.github.io/assets/61014822/f2e1ddfd-f16c-45a3-8df3-4fa70df07cdd)
 
