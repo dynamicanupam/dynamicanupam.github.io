@@ -47,6 +47,19 @@ This case study aims to understand and solve House Price Prediction problem with
 ![Screenshot 2024-01-26 184421](https://github.com/dynamicanupam/dynamicanupam.github.io/assets/61014822/60680df4-99fe-49a9-8176-4fbf74692cbf)
 
 ------
+### Telecom Churn Case Study 
+
+In the telecommunications industry, customer retention is a significant challenge, with customers often switching operators in search of more attractive schemes and offers. This case study’s objective is to develop a machine learning model that can accurately predict customer churn. This model aims to forecast whether a customer will migrate to a different provider in a specific month, using past data. The ultimate goal is to prevent customer churn by accurately predicting such behavior.
+
+> Python packages used sklearn, Numpy, Pandas, Matplotlib and Seaborn
+
+<span style="color: blue;">#SupervisedLearning, #PCA, #LogisticRegression, #DecisionTree, #RandomForest, #GradientDescent, #XGBoost, #LightGBM, #ClassImbalnce, #SMOTE </span>
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]()
+
+![image](https://github.com/dynamicanupam/dynamicanupam.github.io/assets/61014822/f2e1ddfd-f16c-45a3-8df3-4fa70df07cdd)
+
+------
 ### Skin Cancer Detection Using Convolutional Neural Network
 
 This case study focuses on the development and application of a Convolutional Neural Network (CNN) model for the early and accurate detection of melanoma, a type of skin cancer that is responsible for 75% of skin cancer-related deaths. The objective is to create a solution that can analyze images and alert dermatologists about the potential presence of melanoma, thereby potentially reducing the manual effort required in diagnosis.
