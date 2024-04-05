@@ -47,7 +47,7 @@ This case study aims to understand and solve House Price Prediction problem with
 ![Screenshot 2024-01-26 184421](https://github.com/dynamicanupam/dynamicanupam.github.io/assets/61014822/60680df4-99fe-49a9-8176-4fbf74692cbf)
 
 ------
-### Skin Cancer Detection Using Convolutional Neural Network (CNN)
+### Skin Cancer Detection Using Convolutional Neural Network
 
 This case study focuses on the development and application of a Convolutional Neural Network (CNN) model for the early and accurate detection of melanoma, a type of skin cancer that is responsible for 75% of skin cancer-related deaths. The objective is to create a solution that can analyze images and alert dermatologists about the potential presence of melanoma, thereby potentially reducing the manual effort required in diagnosis.
 
