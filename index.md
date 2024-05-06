@@ -1,10 +1,6 @@
 ## Professional Summary
 ---
-A tech enthusiast professional, continuous learner, nearly 11
-years of experience in Software development and
-Technology Consulting. Expertise in Cloud Architecture on Azure, Application
-Modernization, Cloud Native Development, PaaS Solutioning, Cloud Assessment &
-Migration, and .NET Full Stack Technologies.
+A tech enthusiast professional, continuous learner, 11 + years of experience in IT industry and Technology consulting. Expertise in Cloud Architecture on Azure, Application Modernization, Cloud Native Development, PaaS Solutioning, Cloud Assessment & Migration, and .NET Full Stack Technologies.
 
 ## Machine Learning & AI Portfolio
 ---
