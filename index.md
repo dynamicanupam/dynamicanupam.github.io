@@ -72,3 +72,24 @@ This case study focuses on the development and application of a Convolutional Ne
 
 ![image](https://github.com/dynamicanupam/dynamicanupam.github.io/assets/61014822/a2c594c1-6492-4d74-ba72-f5d65da269dd)
 
+------
+### Hand Gesture Recognition Using CNN, RNN, Transfer Learning
+
+In this case study, we’re part of a tech team at a leading electronics company, known for its innovative smart TVs. We’re tasked with developing a unique feature that allows the TV to identify five specific user gestures, eliminating the need for a remote. The TV’s integrated webcam monitors these gestures, each triggering a distinct command:
+
+- Thumbs up: Volume up.
+- Thumbs down: Volume down.
+- Left swipe: Rewind 10 seconds.
+- Right swipe: Fast forward 10 seconds.
+- Stop: Pause playback.
+
+These gestures are identified using various Deep Learning Models such as Conv3D, CNN combined with LSTM, CNN combined with GRU, and CNN combined with GRU (with trainable weights from Transfer Learning).
+
+> Python packages used TensorFlow, Keras, skimage, numpy
+
+<span style="color: blue;">#DeepLearning, #CNN, #RNN, #LSTM, # #TensorFlow, #Keras, #mobilenet, #cv2, #ModelCheckpoint, #Conv3D, #Conv2D,  #MaxPooling3D, #MaxPooling2D, #Dropout </span>
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dynamicanupam/Hand-Gesture-Recognition)
+
+![1_CIsBgwmYTl7XAusZbcNhbA](https://github.com/dynamicanupam/dynamicanupam.github.io/assets/61014822/1a130850-654c-4d22-a1b5-c84efd090ef2)
+
