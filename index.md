@@ -88,8 +88,22 @@ These gestures are identified using various Deep Learning Models such as Conv3D,
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dynamicanupam/Hand-Gesture-Recognition)
 
 ![1_CIsBgwmYTl7XAusZbcNhbA](https://github.com/dynamicanupam/dynamicanupam.github.io/assets/61014822/1a130850-654c-4d22-a1b5-c84efd090ef2)
+
 ------
-## FashionAI - GenAI-powered fashion recommendations tailored to user preferences 
+### Automatic Ticket Classification
+
+The objective of this project is to develop a model that automatically classifies customer complaints based on the mentioned products and services, enabling quicker issue resolution. Using non-negative matrix factorization (NMF) for topic modeling, the project will identify patterns and recurring words in tickets, helping to determine key features for each category cluster and understand the topics of customer complaints.
+
+> Python packages used nltk, spacy, tqdm , pickle, wordcloud 
+
+<span style="color: blue;">#NLP, #NMF, #TfidfVectorizer #RegularExpressions #TopicModelling</span>
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dynamicanupam/Automatic-Ticket-Classification-Using-NLP)
+
+![image](https://github.com/user-attachments/assets/9630e533-2803-48bd-b9ec-714d492d9a08)
+
+------
+### FashionAI - AI-powered fashion recommendations tailored to user preferences 
 
 The primary goal of this project is to create a fashion query response system that leverages 
 Large Language Model (LLM) to deliver detailed, user-friendly answers to fashion-related questions. The system 
@@ -104,3 +118,4 @@ responses, helping users find fashion items tailored to their preferences.
 
 ![Query3_SerachLayer](https://github.com/user-attachments/assets/34951fab-2607-4442-a6c8-9cfc11d0eae5)
 
+-----
