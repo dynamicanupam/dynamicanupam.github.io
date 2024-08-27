@@ -88,4 +88,19 @@ These gestures are identified using various Deep Learning Models such as Conv3D,
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dynamicanupam/Hand-Gesture-Recognition)
 
 ![1_CIsBgwmYTl7XAusZbcNhbA](https://github.com/dynamicanupam/dynamicanupam.github.io/assets/61014822/1a130850-654c-4d22-a1b5-c84efd090ef2)
+------
+## FashionAI - GenAI-powered fashion recommendations tailored to user preferences 
+
+The primary goal of this project is to create a fashion query response system that leverages 
+Large Language Model (LLM) to deliver detailed, user-friendly answers to fashion-related questions. The system 
+is designed to improve user experience by providing informative and contextually relevant 
+responses, helping users find fashion items tailored to their preferences. 
+
+> Python packages used OpenAI, chromadb, CrossEncoder, tiktoken, nltk, PIL
+
+<span style="color: blue;">#GPT3.5, #OpenAI, #RAG, #Embeddings, #ChromaDB, #VectorStore, #HuggingFace, #GenerariveAI #Flask </span>
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dynamicanupam/ShopAssist-AI)
+
+![Query3_SerachLayer](https://github.com/user-attachments/assets/34951fab-2607-4442-a6c8-9cfc11d0eae5)
 
