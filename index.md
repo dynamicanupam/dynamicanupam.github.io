@@ -131,5 +131,21 @@ The objective of this project is to enable interactive Q&A with multiple PDF fil
 
 ![image](https://github.com/user-attachments/assets/840d4340-a96b-467d-8c8c-07dd74a1c95d)
 
-
 -----
+## Sentiment-Based Product Recommendation System
+
+The objective of this project is to develop a sentiment-based product recommendation system to enhance user experience and drive customer satisfaction. Users will benefit from personalized product suggestions based on their reviews and ratings.
+
+#### Key Tasks
+1. **Data Sourcing and Sentiment Analysis**: Collecting and analyzing user reviews to extract meaningful sentiment insights.
+2. **Building a Recommendation System**: Creating a recommendation engine based on user preferences and interactions.
+3. **Improving Recommendations**: Integrating sentiment analysis results to refine and personalize product suggestions.
+4. **End-to-End Deployment**: Implementing the solution with a user-friendly interface for seamless customer interaction.
+
+This initiative will empower Ebuss to deliver a superior and personalized shopping experience, positioning it as a strong competitor in the e-commerce industry.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dynamicanupam/Sentiment_Based_Recommendation_System_using_NLP)
+
+https://github.com/user-attachments/assets/c59f5c6f-675a-42c0-8d9a-76173a81a69e
+
+----
