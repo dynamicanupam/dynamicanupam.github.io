@@ -103,7 +103,7 @@ The objective of this project is to develop a model that automatically classifie
 ![image](https://github.com/user-attachments/assets/9630e533-2803-48bd-b9ec-714d492d9a08)
 
 ------
-### FashionAI - AI-powered fashion recommendations tailored to user preferences 
+### FashionAI - GenAI-powered RAG based fashion recommendations system
 
 The primary goal of this project is to create a fashion query response system that leverages 
 Large Language Model (LLM) to deliver detailed, user-friendly answers to fashion-related questions. The system 
@@ -114,7 +114,7 @@ responses, helping users find fashion items tailored to their preferences.
 
 <span style="color: blue;">#GPT3.5, #OpenAI, #RAG, #Embeddings, #ChromaDB, #VectorStore, #HuggingFace, #GenerariveAI #Flask </span>
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dynamicanupam/ShopAssist-AI)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dynamicanupam/Fashion_Recommendation_System_using_RAG_pipeline)
 
 ![Query3_SerachLayer](https://github.com/user-attachments/assets/34951fab-2607-4442-a6c8-9cfc11d0eae5)
 
