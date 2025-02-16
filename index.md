@@ -103,7 +103,7 @@ The objective of this project is to develop a model that automatically classifie
 ![image](https://github.com/user-attachments/assets/9630e533-2803-48bd-b9ec-714d492d9a08)
 
 ------
-### FashionAI - GenAI-powered RAG based fashion recommendations system
+### FashionAI - OpenAI-powered RAG based fashion recommendations system
 
 The primary goal of this project is to create a fashion query response system that leverages 
 Large Language Model (LLM) to deliver detailed, user-friendly answers to fashion-related questions. The system 
@@ -117,5 +117,19 @@ responses, helping users find fashion items tailored to their preferences.
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dynamicanupam/Fashion_Recommendation_System_using_RAG_pipeline)
 
 ![Query3_SerachLayer](https://github.com/user-attachments/assets/34951fab-2607-4442-a6c8-9cfc11d0eae5)
+
+-----
+### ChatPDF.AI - Chat with PDF files using LangChain and Gemini-Pro
+
+The objective of this project is to enable interactive Q&A with multiple PDF files using the Google Gemini Generative AI model. Users can upload PDFs, ask questions related to their content, and receive accurate responses based on the document information.
+
+> Python packages used Gemini, LangChain, chromadb, PyPDF2, streamlit, google-generativeai
+
+<span style="color: blue;">#GeminiPro, #LangChain, #RAG, #Embeddings, #ChromaDB, #HuggingFace, #GenerariveAI </span>
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dynamicanupam/Chat_with_PDF_using_LangChain)
+
+![image](https://github.com/user-attachments/assets/840d4340-a96b-467d-8c8c-07dd74a1c95d)
+
 
 -----
