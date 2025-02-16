@@ -146,6 +146,6 @@ This initiative will empower Ebuss to deliver a superior and personalized shoppi
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dynamicanupam/Sentiment_Based_Recommendation_System_using_NLP)
 
-![image](https://github.com/user-attachments/assets/15426940-8273-4e21-ae3a-89e9abc61026)
+![image](https://github.com/user-attachments/assets/caeabf3f-875c-4c26-9ae2-c46e5f6d21a5)
 
 ----
