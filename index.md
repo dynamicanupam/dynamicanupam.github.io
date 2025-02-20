@@ -1,9 +1,5 @@
-## Professional Summary
----
-A tech enthusiast professional, continuous learner, 11 + years of experience in IT industry and Technology consulting. Expertise in Cloud Architecture on Azure, Application Modernization, Cloud Native Development, PaaS Solutioning, Cloud Assessment & Migration, and .NET Full Stack Technologies.
-
 ## Machine Learning & AI Portfolio
----
+
 ### Lending Club Case Study using Exploratory Data Analysis
 
 This case study aims to explore the key factors (or driver variables) influencing loan default, specifically identifying variables that strongly indicate default. The finance company can apply this insight to enhance its portfolio and risk assessment. The project employs techniques such as Exploratory Data Analysis, distribution plotting, visualization, and Hypothesis Testing to analyze the impact of consumer and loan attributes on default tendencies.
@@ -103,7 +99,7 @@ The objective of this project is to develop a model that automatically classifie
 ![image](https://github.com/user-attachments/assets/9630e533-2803-48bd-b9ec-714d492d9a08)
 
 ------
-### FashionAI - OpenAI-powered RAG based fashion recommendations system
+### Fashion.AI - A fashion recommendations assistant using GenAI RAG Pipeline.
 
 The primary goal of this project is to create a fashion query response system that leverages 
 Large Language Model (LLM) to deliver detailed, user-friendly answers to fashion-related questions. The system 
@@ -112,20 +108,20 @@ responses, helping users find fashion items tailored to their preferences.
 
 > Python packages used OpenAI, chromadb, CrossEncoder, tiktoken, nltk, PIL
 
-<span style="color: blue;">#GPT3.5, #OpenAI, #RAG, #Embeddings, #ChromaDB, #VectorStore, #HuggingFace, #GenerariveAI #Flask </span>
+<span style="color: blue;">#GPT3.5, #OpenAI, #RAG, #Embeddings, #ChromaDB, #VectorStore, #HuggingFace, #GenAI #Flask </span>
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dynamicanupam/Fashion_Recommendation_System_using_RAG_pipeline)
 
 ![Query3_SerachLayer](https://github.com/user-attachments/assets/34951fab-2607-4442-a6c8-9cfc11d0eae5)
 
 -----
-### ChatPDF.AI - Chat with PDF files using LangChain and Gemini-Pro
+###  HelpMate.AI - A Real-time Q&A from PDFs with LLM,RAG,LangChain
 
 The objective of this project is to enable interactive Q&A with multiple PDF files using the Google Gemini Generative AI model. Users can upload PDFs, ask questions related to their content, and receive accurate responses based on the document information.
 
 > Python packages used Gemini, LangChain, chromadb, PyPDF2, streamlit, google-generativeai
 
-<span style="color: blue;">#GeminiPro, #LangChain, #RAG, #Embeddings, #ChromaDB, #HuggingFace, #GenerariveAI </span>
+<span style="color: blue;">#GeminiPro, #LangChain, #RAG, #Embeddings, #ChromaDB, #HuggingFace, #GenAI </span>
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dynamicanupam/Chat_with_PDF_using_LangChain)
 
@@ -142,7 +138,6 @@ The objective of this project is to develop a sentiment-based product recommenda
 3. **Improving Recommendations**: Integrating sentiment analysis results to refine and personalize product suggestions.
 4. **End-to-End Deployment**: Implementing the solution with a user-friendly interface for seamless customer interaction.
 
-This initiative will empower Ebuss to deliver a superior and personalized shopping experience, positioning it as a strong competitor in the e-commerce industry.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dynamicanupam/Sentiment_Based_Recommendation_System_using_NLP)
 
